@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://uhmvlr4em2al"]
+
+[ext_resource type="Texture2D" uid="uid://b7vub2y0itwha" path="res://Scenes/Player/Sprites/SpaceShipStill.png" id="1_5db4n"]
+[ext_resource type="Script" path="res://Scenes/Player/Scripts/player.gd" id="1_rs3hu"]
+
+[node name="Player" type="CharacterBody2D"]
+position = Vector2(222, 134)
+script = ExtResource("1_rs3hu")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(24, -13)
+scale = Vector2(0.71, 0.75)
+texture = ExtResource("1_5db4n")
