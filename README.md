@@ -6,3 +6,8 @@ Next step: learning Python
 
 Crear juegos con Godot usando tutoriales de YouTube
 Próximo paso: aprender Python
+
+
+supports :
+https://www.youtube.com/watch?v=TbmkfzUAVyA&t=1810s
+https://kenney.nl/assets/space-shooter-extension
